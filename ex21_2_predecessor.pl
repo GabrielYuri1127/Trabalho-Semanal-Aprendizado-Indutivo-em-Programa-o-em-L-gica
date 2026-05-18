@@ -1,7 +1,6 @@
 % ============================================================
 % EXERCICIO 21.2 - predecessor
-% Ivan Bratko - Prolog Programming for Artificial Intelligence
-% Compatível com SWISH
+% Ivan Bratko - Prolog Programming 
 % Execute com:
 % ?- run.
 % ============================================================
