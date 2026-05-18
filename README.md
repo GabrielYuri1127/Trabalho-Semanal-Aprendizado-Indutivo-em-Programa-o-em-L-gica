@@ -1,5 +1,15 @@
 # Exercícios 21.1 e 21.2 – Mini-HYPER (Bratko)
 
+## Informações da Disciplina
+
+- **Disciplina:** Inteligência Artificial
+- **Professor:** Edjard Mota
+- **Aluno:** Gabriel Yuri Cavalcante de Castro
+- **Matrícula:** 22350996
+- **Curso:** Engenharia da Computação – UFAM
+
+---
+
 Resolução dos exercícios 21.1 e 21.2 do Capítulo 21 do livro:
 
 **BRATKO, Ivan. Prolog Programming for Artificial Intelligence. 4th Edition.**
